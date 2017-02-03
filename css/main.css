@@ -48,13 +48,3 @@ body {
   float: left;
   width: 50%;
 }
-
-@media only screen and (min-width: 90em) {
-
-  .section {
-    padding-top: 2rem;
-    padding-right: 4rem;
-    padding-bottom: 2rem;
-    padding-left: 4rem;
-  }
-}
